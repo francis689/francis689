@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋, I'm Francis Otieno
 
-<!--
-**francis689/francis689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+💼 Working professional
 
-Here are some ideas to get you started:
+💻 Currently learning programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 Interested in Graphic Design
+
+🚀 Looking to collaborate on interesting projects
+
+📚 Always learning new skills and technologies
+
+## Skills
+- Python (Learning)
+- Graphic Design (Learning)
+- Microsoft Office
+- GitHub
+
+## Goals
+- Build useful projects
+- Improve my programming skills
+- Grow professionally
+
+## Contact Me
+📧 Email: francisotieno801@gmail.com
+
+## Fun Fact
+⚡ I enjoy learning new technology skills and exploring new opportunities.
